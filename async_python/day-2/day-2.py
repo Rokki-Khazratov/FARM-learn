@@ -1,4 +1,6 @@
 import asyncio
 import time
+import random
 
-# Thema: Async Qeue
+
+# Thema: Async Queue
